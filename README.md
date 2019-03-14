@@ -1,4 +1,4 @@
-# wx_weather
+# wx-weather
 
 参考项目： https://github.com/swiftcafex/wechat-weather
 
