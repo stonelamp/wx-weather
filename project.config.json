@@ -14,7 +14,7 @@
 	"compileType": "miniprogram",
 	"libVersion": "2.6.2",
 	"appid": "wxe0793cf708ac9909",
-	"projectname": "weather",
+	"projectname": "wx-weather",
 	"debugOptions": {
 		"hidedInDevtools": []
 	},
